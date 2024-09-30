@@ -286,7 +286,7 @@ footer a:hover {
     color: #007bff;
 }
 
-@media (max-width: 415x) {
+@media (max-width: 415px) {
     .footer h5 {
         font-size: 1.2rem;
     }
