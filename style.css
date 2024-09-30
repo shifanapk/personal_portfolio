@@ -290,13 +290,19 @@ footer a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+    gap: 10px;
+    flex-wrap: nowrap;
 
 }
 
 @media (max-width: 768px) {
     .footer h5 {
         font-size: 1.2rem;
+    }
+
+    .footer .social-links {
+        gap: 8px;
+
     }
 
     .footer .social-links i {
