@@ -315,7 +315,6 @@ footer a:hover {
 
     .footer .text-muted {
         font-size: 0.9rem;
-        white-space: nowrap;
-        color: #cccccc;
+
     }
 }
