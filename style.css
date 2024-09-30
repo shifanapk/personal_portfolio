@@ -285,3 +285,21 @@ footer a {
 footer a:hover {
     color: #007bff;
 }
+
+@media (max-width: 768px) {
+    .footer h5 {
+        font-size: 1.2rem;
+    }
+
+    .footer .social-links i {
+        font-size: 1.5rem;
+    }
+
+    .footer .social-links a {
+        margin: 0 5px;
+    }
+
+    .footer .text-muted {
+        font-size: 0.9rem;
+    }
+}
